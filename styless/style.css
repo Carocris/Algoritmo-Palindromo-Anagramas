@@ -2,18 +2,21 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+
+
 }
   
 h1, h2 {
     margin: 0;
     padding: 1rem;
-    background-color: #007bff;
+    background-color: #ff00ae;
     color: #fff;
+    text-align: center;
 }
   
 form {
     padding: 1rem;
-    border-bottom: 1px solid #007bff;
+    border-bottom: 1px solid #ff00ae;
 }
   
 label {
@@ -22,7 +25,7 @@ label {
 }
   
 button {
-    background-color: #007bff;
+    background-color: #ff00ae;
     color: #fff;
     border: none;
     padding: 0.5rem 1rem;
